@@ -1,0 +1,3 @@
+nah semuanya kerjain pake skill yg ada, ingat jangan terburu2 pastiin sesuai dengan kriteria setiap bounty dan pastikan kita menang!!! oke?
+
+Bounty: "Tiny Bot, Easy $2: Beat Buy-and-Hold on Solana" (slug u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1, https://make.fun/bounty/u-gorun-gadget-tiny-bot-easy-2-beat-a48f3ce1). Entry ini dibangun dengan skill make_fun_submission_preflight, implement, dan code-review: kit dibaca penuh, strategi dual-leg (core 18h dip/momentum + scalp) di-backtest lokal terhadap semua data latihan kit dengan model fill harness yang eksak, lalu dipilih varian yang mengalahkan buy-and-hold di jendela dev dan di 7 dari 9 jendela geser 72-bar, dengan trade count di atas guardrail 8 dan max drawdown jauh di bawah 25%.
